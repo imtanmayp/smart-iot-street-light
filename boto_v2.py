@@ -5,9 +5,9 @@ from botocore.client import Config
 
 
 
-ACCESS_KEY_ID = 'AKIAJUPXKQDBAO5NTZHQ'
+ACCESS_KEY_ID = '******'
 
-ACCESS_SECRET_KEY = 'cAxtIvQct95jhVibqZ4tH4A92EjlL77HTo9ZN2Pz'
+ACCESS_SECRET_KEY = '******'
 
 BUCKET_NAME = 'iotstreetlight'
 
